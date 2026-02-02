@@ -11,7 +11,7 @@
 | Repository | Description |
 |------------|-------------|
 | [dployr-base](https://github.com/dployr-io/dployr-base) | Control plane API server |
-| [dployrd](https://github.com/dployr-io/dployrd) | Agent daemon for instances |
+| [dployrd](https://github.com/dployr-io/dployr) | Agent daemon for instances |
 
 ## Features
 
