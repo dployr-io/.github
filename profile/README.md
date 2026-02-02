@@ -2,7 +2,7 @@
 
 **Your app, your server, your rules!**
 
-[Dployr](https://app.dployr.io) is an open-source control plane for managing server deployments, instance orchestration, and traffic routing. Connect your own infrastructure and manage it through a unified platform.
+[Dployr](https://dployr.io) is an open-source control plane for managing server deployments, instance orchestration, and traffic routing. Connect your own infrastructure and manage it through a unified platform.
 
 <img width="1693" height="941" alt="Screenshot 2025-12-31 090509" src="https://github.com/user-attachments/assets/b63eb008-3fab-44f3-88cb-0f8977a6ddf7" />
 
