@@ -9,7 +9,7 @@ Visit [app.dployr.io](https://app.dployr.io) and deploy your first application.
 
 ## Documentation
 
-- [API Docs](https://api-docs.dployr.io)
+- [Docs](https://dployr.io/docs/quickstart)
 - [Self-Hosting Guide](https://docs.dployr.io/installation/self-hosting)
 
 ## License
