@@ -2,22 +2,7 @@
 
 **Deploy apps, not infrastructure!**
 
-[Dployr](https://dployr.io) is an open-source control plane for managing server deployments, instance orchestration, and traffic routing. Connect your own infrastructure and manage it through a unified platform.
-
-## Projects
-
-| Repository | Description |
-|------------|-------------|
-| [dployr-base](https://github.com/dployr-io/dployr-base) | Control plane API server |
-| [dployrd](https://github.com/dployr-io/dployr) | Agent daemon for instances |
-
-## Features
-
-- **Instance Management** — Register and monitor server instances
-- **Cluster Organization** — Group instances with role-based access control
-- **Real-time Updates** — WebSocket-based communication with agents
-- **OAuth Authentication** — Sign in with Google, GitHub, or Microsoft
-- **Integrations** — GitHub, GitLab, Bitbucket for deployments; Discord, Slack for notifications
+On [Dployr](https://dployr.io) you can create an account and your server is ready. No SSH, no setup, nothing to configure. Push from the CLI, GitHub Actions, or the dashboard. Works with Hetzner, DigitalOcean, Vultr, or any VPS you already have.
 
 ## Quick Start
 Visit [app.dployr.io](https://app.dployr.io) and deploy your first application.
@@ -34,5 +19,5 @@ Apache 2.0
 ## Links
 
 - Website: [dployr.io](https://dployr.io)
-- X: [@dployr]([https://twitter.com/dployr_io](https://x.com/@dployr))
+- X: [@dployr](https://x.com/@dployr)
 - Discord: [Join Community](https://discord.gg/VZVMYuXH)
